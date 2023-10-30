@@ -1,6 +1,6 @@
 # RETO-ALPINA
 
-En el contexto de la presentación del Programa del Pregrado en Analítica de Datos y Mercados, le damos la bienvenida a este reto de visualización de datos en donde podrán dejar volar su imaginación y creatividad para hacer que los datos cuenten una historia novedosa a partir de la cual se puedan tomar decisiones estratégicas para resolver un problema.
+En el contexto de la presentación del Programa del Pregrado en Analítica de Datos y Mercados, les damos la bienvenida a este reto de visualización de datos en donde podrán dejar volar su imaginación y creatividad para hacer que los datos cuenten una historia novedosa a partir de la cual se puedan tomar decisiones estratégicas para resolver un problema.
 
 ## Contenido
 
