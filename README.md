@@ -8,5 +8,5 @@ Este repositorio contiene lo siguiente:
 
 - **Base datos (Base_reto):** Contiene la información con la cual se podrá construir el Tablero en Power BI. 
 - **Tablero de muestra (Demo_Reto_Alpina):** Es un tablero de muestra en Power BI que servirá como guía
-- **Diccionario de variable (Diccionario_variable):** Presenta la descripción de cada variable que contiene Base_reto.
+- **Diccionario de variables (Diccionario_variable):** Presenta la descripción de cada variable que contiene Base_reto.
 - **Presentación Reto (Reto_alpina):** contiene la presentación del Demo_Reto_Alpina
